@@ -1,0 +1,168 @@
+{
+  "cols": [
+    "Dependencia – Para Tributos Internos/ Por Aduana de origen – Para Aduanas",
+    "Indicador de Dependencia",
+    "Tipo de documento de identificación del administrado",
+    "Número de documento de identificación del administrado",
+    "Nombre o razón social de identificación del administrado",
+    "Fecha de ingreso",
+    "Tamaño del Contribuyente",
+    "Tipo de Recurso",
+    "N° de Expediente",
+    "Etapa del Recurso",
+    "Tipo de Documento",
+    "Número del Valor o Documento",
+    "Área emisora del valor o documento",
+    "Fecha de emisión del valor o documento",
+    "Nombre del Resolutor",
+    "Nombre del Revisor 1",
+    "Primera fecha de asignación del Expediente en etapa de evaluación de fondo",
+    "Fecha de ultima asignación del expediente (En la etapa en que se encuentre)",
+    "Monto Total Impugnado",
+    "Descriptor Principal",
+    "Descriptor Secundario",
+    "Resultado de la Resolución",
+    "Número de la Resolución",
+    "Fecha de Emisión de la Resolución",
+    "Fecha de Notificación de la Resolución",
+    "Incidencia",
+    "OEA",
+    "Días",
+    "Vcto",
+    "Alerta",
+    "Fecha RTF"
+  ],
+  "sample": {
+    "Dependencia – Para Tributos Internos/ Por Aduana de origen – Para Aduanas": [
+      "SEDE CENTRAL - CHUCUITO",
+      "SEDE CENTRAL - CHUCUITO",
+      "SEDE CENTRAL - CHUCUITO"
+    ],
+    "Indicador de Dependencia": [
+      "ADU",
+      "ADU",
+      "ADU"
+    ],
+    "Tipo de documento de identificación del administrado": [
+      "RUC",
+      "RUC",
+      "RUC"
+    ],
+    "Número de documento de identificación del administrado": [
+      20511520003,
+      20100127165,
+      20612266264
+    ],
+    "Nombre o razón social de identificación del administrado": [
+      "TEXTILES OLINDA S.A.C.",
+      "PROCTER & GAMBLE PERU S.R.L.",
+      "RTH IMPORTACIONES SOCIEDAD ANÓNIMA CERRADA"
+    ],
+    "Fecha de ingreso": [
+      "2026-01-15 00:00:00",
+      "2026-01-13 00:00:00",
+      "2026-01-05 00:00:00"
+    ],
+    "Tamaño del Contribuyente": [
+      "PRINCIPAL",
+      "PRINCIPAL",
+      "RESTO"
+    ],
+    "Tipo de Recurso": [
+      "APELACIÓN",
+      "APELACIÓN",
+      "APELACIÓN"
+    ],
+    "N° de Expediente": [
+      4090350008666,
+      4090350008638,
+      4090350008570
+    ],
+    "Etapa del Recurso": [
+      "RECURSO EN EVALUACIÓN DE ADMISIBILIDAD",
+      "RECURSO EN EVALUACIÓN DE ADMISIBILIDAD",
+      "RECURSO EN EVALUACIÓN DE ADMISIBILIDAD"
+    ],
+    "Tipo de Documento": [
+      "RESOLUCIÓN DE DIVISIÓN",
+      "RESOLUCIÓN DE DIVISIÓN",
+      "RESOLUCIÓN DE DIVISIÓN"
+    ],
+    "Número del Valor o Documento": [
+      "00004090150000459",
+      "00004090150001174",
+      "32220020250000228"
+    ],
+    "Área emisora del valor o documento": [
+      "0",
+      "0",
+      "0"
+    ],
+    "Fecha de emisión del valor o documento": [
+      "-",
+      "-",
+      "-"
+    ],
+    "Nombre del Resolutor": [
+      "MAGALI SAIT, PALOMINO ROJAS",
+      "MAGALI SAIT, PALOMINO ROJAS",
+      "MAGALI SAIT, PALOMINO ROJAS"
+    ],
+    "Nombre del Revisor 1": [
+      "ANGELA MAGALY, ARAGON COLQUE",
+      "ANGELA MAGALY, ARAGON COLQUE",
+      "ANGELA MAGALY, ARAGON COLQUE"
+    ],
+    "Primera fecha de asignación del Expediente en etapa de evaluación de fondo": [
+      "16/01/2026",
+      "14/01/2026",
+      "05/01/2026"
+    ],
+    "Fecha de ultima asignación del expediente (En la etapa en que se encuentre)": [
+      "16/01/2026",
+      "14/01/2026",
+      "05/01/2026"
+    ],
+    "Monto Total Impugnado": [
+      "-",
+      "-",
+      "-"
+    ],
+    "Descriptor Principal": [
+      "-",
+      "-",
+      "-"
+    ],
+    "Descriptor Secundario": [
+      "-",
+      "-",
+      "-"
+    ],
+    "Resultado de la Resolución": [
+      "-",
+      "-",
+      "INFUNDADO"
+    ],
+    "Número de la Resolución": [
+      "-",
+      "-",
+      "-"
+    ],
+    "Fecha de Emisión de la Resolución": [
+      "-",
+      "-",
+      "-"
+    ],
+    "Fecha de Notificación de la Resolución": [
+      "-",
+      "-",
+      "-"
+    ],
+    "Incidencia": [],
+    "OEA": [],
+    "Días": [],
+    "Vcto": [],
+    "Alerta": [],
+    "Fecha RTF": []
+  }
+}

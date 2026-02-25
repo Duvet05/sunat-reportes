@@ -1,0 +1,31 @@
+      0                                                           1                                  2                                   3                              4          5      6              7
+0                                                                                                                                                                                                         
+1                                                        COMITÉ INI                                                                                                                                       
+2                                                                                                                                                                                                         
+3                                               STOCK DE DOCUMENTOS                                                                                                                                       
+4                                                                                                                                                                                                         
+5   1.0                                                                                           DCCI                               DCCII                            DCP                                 
+6                                                             FONDO                                462                                 264                             85        (*)                      
+7                                                     ADMISIBILIDAD                                 91                                 102                            284                                 
+8                                                         INGRESADO                                  2                                   2                             46                                 
+9                                                             TOTAL                                555                                 368                            415                                 
+10                                     (*) Incluye 5 casos de DCCII                                                                                                                                       
+11                                          PRODUCTIVIDAD RECLAMOS                                                                                                                                        
+12                                                                                                                                                                                                        
+13  2.0                                         2024-09-01 00:00:00  DIVISIÓN DE CONTROL CONCURRENTE-I  DIVISIÓN DE CONTROL CONCURRENTE-II  DIVISIÓN DE CONTROL POSTERIOR                                 
+14                                               Reclamos resueltos                                191                                 113                             27        (*)                      
+15                                                        Resolutor                              14.05                                11.3                          5.375                                 
+16                                              Producción Promedio                          13.594306                                  10                       5.023256                                 
+17        (*) Incluye: 22 casos orginen INCA, 05 Casos origen DCCII                          13.594306                                  10                       5.023256                                 
+18                                                                                                                                                                                                        
+19                              PRODUCTIVIDAD (LABORES ADICIONALES)                                                                                                                                       
+20  3.0                                                  PRODUCCIÓN                                                                                                                                       
+21                                                             UUOO                               DCCI                                                              DCCII               DCP               
+22                                                          MATERIA                              FONDO        Atencion informes de demanda                          FONDO  MEJORA LC  FONDO  MEJORA (IAMC)
+23                                               PRODUCTO RESUELTO                                  14                                                                                                    
+24                                                        RESOLUTOR                                  2                                                                                                    
+25                                              PRODUCCIÓN PROMEDIO                                  7                                                                                                    
+26                                                                                                                                                                                                        
+27                                                                                                                                                                                                        
+28                                                                                                                                                                                                        
+29                                                 PROGRAMACIÓN NOV                                Exp                            Columna1                                                                
