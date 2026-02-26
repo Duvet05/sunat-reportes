@@ -1,0 +1,44 @@
+{
+  "name": "sunat-reportes",
+  "version": "1.0.0",
+  "description": "Módulo para generación de reportes SUNAT (Perú)",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Duvet05/sunat-reportes.git"
+  },
+  "keywords": [
+    "sunat",
+    "peru",
+    "reportes",
+    "facturas",
+    "taxes"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Duvet05/sunat-reportes/issues"
+  },
+  "homepage": "https://github.com/Duvet05/sunat-reportes#readme",
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "@types/node": "^25.3.0",
+    "jest": "^30.2.0",
+    "ts-jest": "^29.4.6",
+    "typescript": "^5.9.3"
+  },
+  "jest": {
+    "preset": "ts-jest",
+    "testEnvironment": "node",
+    "testMatch": [
+      "**/__tests__/**/*.test.ts"
+    ]
+  }
+}
